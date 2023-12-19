@@ -7,7 +7,7 @@
 # 安装方法
 1.下载并安装[油猴](https://www.tampermonkey.net/)  
 2.添加新脚本  
-3.把 油猴.js 里面的内容复制全部覆盖到编辑器内  
+3.把 [油猴.js](https://github.com/Bili345679/jiandan_hide/blob/main/%E6%B2%B9%E7%8C%B4.js) 里面的内容复制全部覆盖到编辑器内  
 4.点击 文件->保存，或者ctrl+s  
 5.刷新煎蛋  
 
