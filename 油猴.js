@@ -4,7 +4,10 @@
 // @version      2023-12-19
 // @description  try to take over the world!
 // @author       You
-// @match        https://jandan.net/*
+// @match        https://jandan.net/qa*
+// @match        https://jandan.net/treehole*
+// @match        https://jandan.net/ooxx*
+// @match        https://jandan.net/pic*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=jandan.net
 // @grant        none
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js
