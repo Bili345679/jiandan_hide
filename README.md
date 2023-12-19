@@ -24,3 +24,6 @@
 3.本插件暂未上传到 [greasyfork](https://greasyfork.org/zh-CN)，之后可能会上传  
 
 如果插件有bug，或者希望增加功能，请在[issues](https://github.com/Bili345679/drag_to_run/issues)提交，如果在煎蛋提交，可能看不到（就算在github提交也不一定看得到，到现在还不知道issues咋用）
+
+# 引用？感谢？
+不知道这个应该叫什么，本项目在[bootcdn](https://www.bootcdn.cn/all/)引用了[jquery](https://jquery.com/)，一直用的都是本地的js库，因为在本地引用不方便加入到油猴脚本里，所以找了个免费CDN，规则啥的也不知道，如果需要费用，麻烦大佬们指点一下，谢谢
